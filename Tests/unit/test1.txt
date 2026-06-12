@@ -1,1 +1,1 @@
-"Prueba unitaria inicial" 
+"Prueba inicial del sistema" 
